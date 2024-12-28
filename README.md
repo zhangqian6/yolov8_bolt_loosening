@@ -7,11 +7,6 @@
 <details open>
 <summary>界面</summary>
 pyqt设计的界面如下
-<img width="100%" src="https://github.com/zhangqian6/picture-bed/raw/main/2023_2_22_2.png">
-
+<img width="100%" src="https://github.com/zhangqian6/picture-bed/raw/main/屏幕截图%202024-12-28%20175023.png">
 </details>
 
-<br>
-<a align="center" href="https://bit.ly/ultralytics_hub" target="_blank">
-<img width="100%" src="https://github.com/ultralytics/assets/raw/main/yolov8/banner-integrations.png"></a>
-<br>
