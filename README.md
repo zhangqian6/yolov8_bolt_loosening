@@ -2,9 +2,17 @@
 
 我使用的是ultralytics中的8.0.6版本，使用的是v8模型 
 
+---
+
+
+
 <div style="font-size: 24px;"><strong>使用</strong></div>
 
 运行main.py
+
+---
+
+
 
 <details open>
 <summary>界面设计</summary>
