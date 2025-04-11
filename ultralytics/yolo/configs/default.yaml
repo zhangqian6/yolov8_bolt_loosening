@@ -5,7 +5,7 @@ task: "detect" # choices=['detect', 'segment', 'classify', 'init'] # init is a s
 mode: "train" # choices=['train', 'val', 'predict'] # mode to run task in.
 
 # Train settings -------------------------------------------------------------------------------------------------------
-model: E:\z2024\studying\yolov8\ultralytics-8.0.6\best.pt # i.e. yolov8n.pt, yolov8n.yaml. Path to model file
+model: ultralytics-8.0.6\best.pt # i.e. yolov8n.pt, yolov8n.yaml. Path to model file
 data: null # i.e. coco128.yaml. Path to data file
 epochs: 100 # number of epochs to train for
 patience: 50  # TODO: epochs to wait for no observable improvement for early stopping of training
